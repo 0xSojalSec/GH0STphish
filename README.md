@@ -4,13 +4,12 @@ Sometimes Masked link is not generating properly. In that case we need to use VP
 
 Installation
 # Clone the repository 
-git clone https://github.com/jaykali/maskphish
+git clone https://github.com/0xSojalSec/GH0STphish
 
 # Enter into the directory
-cd maskphish
+cd GH0STphish
 
 # Run the script
-bash maskphish.sh
-
+bash GH0STphish
 
 Tested on Kali Linux, Termux & Ubuntu
